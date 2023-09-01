@@ -30,6 +30,4 @@ A simple web application for booking meeting rooms and managing bookings.
 
 ## Screenshots
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
+![Alt text](image.png)
