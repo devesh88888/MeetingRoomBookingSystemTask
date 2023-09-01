@@ -113,8 +113,4 @@ document.addEventListener("DOMContentLoaded", function () {
   // Initial update of booking list and room counts
   updateBookingList();
   updateRoomCounts();
-
-  const footer = document.createElement("footer");
-  footer.textContent = `© ${new Date().getFullYear()} Your Name`;
-  document.body.appendChild(footer);
 });
